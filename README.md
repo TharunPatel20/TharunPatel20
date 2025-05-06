@@ -1,6 +1,6 @@
 ## 
 
-- Hi, I am @Tharunpatel20
+- Hi, I'm @Tharunpatel20
 - 👀 I’m interested in Coding and Anime
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on Java and React projects.
