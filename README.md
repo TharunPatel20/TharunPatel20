@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a software developer based in [Your Location]. I enjoy working with Java and JavaScript, and I'm always eager to learn new technologies. Currently, I have a keen interest in microservices and cloud technologies.
+I'm a software developer based in India. I enjoy working with Java and JavaScript, and I'm always eager to learn new technologies. Currently, I have a keen interest in microservices and cloud technologies.
 
 ## Skills & Technologies
 
