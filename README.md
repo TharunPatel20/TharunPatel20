@@ -13,7 +13,7 @@ I'm a software developer based in India. I enjoy working with Java and JavaScrip
 
 ## Skills & Technologies
 
-java,spring,js,nodejs,html,css,react,tailwind,docker,aws
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,nodejs,react,express,git,github,linux,mysql,docker,aws,gcp&perline=8)](https://skillicons.dev)
 
 <!--
 **TharunPatel20/TharunPatel20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
